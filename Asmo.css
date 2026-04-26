@@ -1,0 +1,21 @@
+.services {
+  text-align: center;
+  padding: 30px;
+}
+
+.service-box {
+  background: white;
+  margin: 15px auto;
+  padding: 20px;
+  width: 70%;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.service-box h3 {
+  color: brown;
+}
+
+.service-box p {
+  font-size: 16px;
+}
